@@ -1,6 +1,6 @@
 set pypath=C:\Python27
-set py=python-2.7.5.amd64.msi
-set pyurl="http://python.org/ftp/python/2.7.5/%py%"
+set py=python-2.7.6.amd64.msi
+set pyurl="http://python.org/ftp/python/2.7.6/%py%"
 @ECHO .
 set pywin=pywin32-218.win-amd64-py2.7.exe
 set pywinurl="http://sourceforge.net/projects/pywin32/files/pywin32/Build 218/%pywin%/download#"
