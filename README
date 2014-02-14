@@ -5,8 +5,8 @@ WinBootstrapPyEnv is a collection of scripts and binaries that can be used to
 install a reasonable Python environment into Windows. The scripts should work 
 for Windows XP 32bit and 64bit, Windows Vista 32bit and 64bit, and Windows7 
 32bit and 64bit. It is untested on WinXP 64bit, Vista 32bit and 64bit, 
-Windows7 32bit, and all versions of Windows8. Python2.7, Python3.2, and 
-Python3.3 are supported.
+Windows7 32bit, and all versions of Windows8. Python2.7, and Python3.3 are 
+supported.
 
 The script uses curl to download a Python installer, a PyWin32 installer, and 
 setuptool's bootstrap script (ez_install). Python and PyWin32 are installed, 
@@ -27,7 +27,7 @@ Notes:
       manually clean up the PyWin32 installer. 
 
 Installs:
-    * Python2.7, or Python3.2, or Python3.3
+    * Python2.7 or Python3.3
     * PyWin32
     * setuptools
     * pip
