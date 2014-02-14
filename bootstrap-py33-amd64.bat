@@ -1,6 +1,6 @@
 set pypath=C:\Python33
-set py=python-3.3.2.amd64.msi
-set pyurl=http://www.python.org/ftp/python/3.3.2/%py%
+set py=python-3.3.4.amd64.msi
+set pyurl=http://www.python.org/ftp/python/3.3.4/%py%
 @ECHO .
 set pywin=pywin32-218.win-amd64-py3.3.exe
 set pywinurl="http://sourceforge.net/projects/pywin32/files/pywin32/Build 218/%pywin%/download#"
